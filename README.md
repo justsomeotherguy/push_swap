@@ -43,12 +43,16 @@ Early 2022 Version of push_swap
 
 Does not include bonuses
 
-##Useful Resources
+## Useful Resources
 
 https://zainab-dnaya.medium.com/fastest-push-swap-algorithm-2f510028602b
+
 https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
 https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
+
 https://www.random.org/integer-sets/
+
 https://github.com/laisarena/push_swap_tester
 
 
