@@ -37,6 +37,8 @@ Sorts 500 numbers in < 8500 moves
 
 ![Screenshot 2022-04-14 182547](https://user-images.githubusercontent.com/94416867/163350669-089c8f45-4d88-42d8-af39-fb50d0d13296.png)
 
+good enough
+
 Early 2022 Version of push_swap
 
 Does not include bonuses
